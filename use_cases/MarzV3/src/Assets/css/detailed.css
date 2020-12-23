@@ -1,0 +1,105 @@
+.auto-qop {
+  cursor: pointer;
+  display: inline;
+  margin-left: 10px;
+}
+
+.qop-h4 {
+  display: inline;
+  margin-left: 10px;
+}
+
+.comment-input {
+  width: 180px !important;
+  margin-left: 20px;
+  border-radius: 0;
+}
+
+.control-panel-span {
+  margin-left: 5px;
+  font-size: 1em;
+  text-shadow: none;
+}
+
+.toggle-switch {
+  height: 30px;
+}
+
+.range-toggle-container {
+  width: 16em;
+}
+
+.template-container {
+  width: 340px !important;
+}
+
+.template-select {
+  width: 265px;
+}
+
+.offset-span {
+  width: 50px;
+}
+
+.offset-input {
+  width: 45px;
+}
+
+.offset-span-2 {
+  width: 90px;
+}
+
+.redshift-container {
+  width: 300px;
+}
+
+.redshift-input {
+  color: red;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+.redshift-span {
+  width: 150px;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.canvas-container {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  min-height: 100px;
+  max-height: 100px;
+  width: 100%;
+}
+
+.canvas-container-1line-margin {
+  top: 44px;
+}
+
+.canvas-container-2line-margin {
+  top: 88px;
+}
+
+.canvas-container-3line-margin {
+  top: 132px;
+}
+
+.canvas-container-4line-margin {
+  top: 180px;
+}
+
+.canvas-container-no-margin {
+  height: 100%;
+}
+
+.panel-header {
+  max-height: 41px;
+}
+
+/*# sourceMappingURL=detailed.css.map */
